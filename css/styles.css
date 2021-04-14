@@ -61,6 +61,10 @@ body {
   text-decoration: none;
 }
 
+.active-link {
+  color: var(--logo-link-blue-color);
+}
+
 .mail-tel-color {
   color: inherit;
 }
